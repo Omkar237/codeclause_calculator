@@ -1,0 +1,2 @@
+This is my first project for CodeClause internship.
+In this project i have used the Math library to demonstrate the calculator. It can be used for simple operations as well as it can be used as scientific operations.
